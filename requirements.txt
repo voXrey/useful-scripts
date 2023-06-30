@@ -1,2 +1,2 @@
-PyPDF2==1.27.4
+PyPDF2==1.27.9
 comtypes==1.1.11
